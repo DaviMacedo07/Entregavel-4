@@ -28,16 +28,6 @@ Editar
 npm test
 Os testes estão localizados na pasta TestesUnitarios, e seguem o padrão *.test.js.
 
-📁 Estrutura
-bash
-Copiar
-Editar
-ENTREGAVEL4/
-├── TestesUnitarios/
-│   ├── fibonacci.js           # Função do algoritmo
-│   └── fibonacci.test.js      # Testes unitários
-├── package.json
-└── README.md
 🛠 Tecnologias usadas
 Node.js
 
