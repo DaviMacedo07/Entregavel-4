@@ -1,0 +1,44 @@
+
+📦 Entregavel 4 – Algoritmos com Testes Unitários
+Este projeto contém implementações de algoritmos fundamentais (como Fibonacci, MDC, números primos etc.) em JavaScript, além de testes unitários usando o framework Jest.
+
+✅ Pré-requisitos
+Antes de tudo, você precisa ter o Node.js instalado. Para verificar:
+
+bash
+Copiar
+Editar
+node -v
+npm -v
+Se não tiver, baixe em: https://nodejs.org/
+
+⚙️ Instalação
+Clone o repositório e instale as dependências:
+
+bash
+Copiar
+Editar
+npm install
+🧪 Como rodar os testes
+Execute os testes unitários com:
+
+bash
+Copiar
+Editar
+npm test
+Os testes estão localizados na pasta TestesUnitarios, e seguem o padrão *.test.js.
+
+📁 Estrutura
+bash
+Copiar
+Editar
+ENTREGAVEL4/
+├── TestesUnitarios/
+│   ├── fibonacci.js           # Função do algoritmo
+│   └── fibonacci.test.js      # Testes unitários
+├── package.json
+└── README.md
+🛠 Tecnologias usadas
+Node.js
+
+Jest
